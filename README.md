@@ -18,7 +18,7 @@ Welcome to the **DSA Roadmap**! This repository is a curated collection of probl
 
 ## 📚 **DSA Topics and Problems**  
 
-### 1️⃣ **Arrays**  
+### 1 **Arrays**  
 - https://leetcode.com/problems/running-sum-of-1d-array/description/
 - https://leetcode.com/problems/find-the-highest-altitude/
 - https://leetcode.com/problems/final-value-of-variable-after-performing-operations/description/
@@ -28,7 +28,7 @@ Welcome to the **DSA Roadmap**! This repository is a curated collection of probl
 - https://leetcode.com/problems/shuffle-the-array/description/
 - https://leetcode.com/problems/move-zeroes/description/
 
-### 2️⃣ **Strings**  
+### 2 **Strings**  
 - https://leetcode.com/problems/jewels-and-stones/description/
 - https://leetcode.com/problems/reverse-string/description/
 - https://leetcode.com/problems/merge-strings-alternately/description/
@@ -38,7 +38,7 @@ Welcome to the **DSA Roadmap**! This repository is a curated collection of probl
 - https://leetcode.com/problems/valid-palindrome/description/
 - https://leetcode.com/problems/repeated-substring-pattern/description/
 
-### 3️⃣ **HashMap**  
+### 3 **HashMap**  
 - https://leetcode.com/problems/two-sum/
 - https://leetcode.com/problems/contains-duplicate/description/
 - https://leetcode.com/problems/find-the-difference-of-two-arrays/description/
@@ -46,11 +46,14 @@ Welcome to the **DSA Roadmap**! This repository is a curated collection of probl
 - https://leetcode.com/problems/jewels-and-stones/description/
 - https://leetcode.com/problems/valid-anagram/description/ 
 
-### 4️⃣ **Stack**  
-- [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)  
-- [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)  
-- [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)  
-
+### 4 **Stack**  
+- https://leetcode.com/problems/backspace-string-compare/description/
+- https://leetcode.com/problems/valid-parentheses/description/
+- https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/
+- https://leetcode.com/problems/make-the-string-great/description/
+- https://leetcode.com/problems/removing-stars-from-a-string/description/
+- https://leetcode.com/problems/implement-queue-using-stacks/description/ 
+  
 ---
 
 ## 🤝 **Contributions**  
