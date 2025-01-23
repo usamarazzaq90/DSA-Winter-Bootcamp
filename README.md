@@ -52,7 +52,6 @@ Welcome to the **DSA Roadmap**! This repository is a curated collection of probl
 - https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/
 - https://leetcode.com/problems/make-the-string-great/description/
 - https://leetcode.com/problems/removing-stars-from-a-string/description/
-- https://leetcode.com/problems/implement-queue-using-stacks/description/ 
   
 ---
 
