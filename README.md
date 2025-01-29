@@ -52,16 +52,16 @@ Welcome to the **DSA Roadmap**! This repository is a curated collection of probl
 - https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/
 - https://leetcode.com/problems/make-the-string-great/description/
 - https://leetcode.com/problems/removing-stars-from-a-string/description/
+
+### 5 **Queue**  
+- https://leetcode.com/problems/implement-stack-using-queues/description/
+- https://leetcode.com/problems/time-needed-to-buy-tickets/
+- https://leetcode.com/problems/first-unique-character-in-a-string/
+- https://leetcode.com/problems/design-circular-queue/description/
+- https://leetcode.com/problems/design-circular-deque/description/ 
   
 ---
 
-## 🤝 **Contributions**  
-Feel free to contribute by:  
-1. Adding more problems for each topic.  
-2. Improving instructions or adding solutions.  
-3. Reporting issues or suggesting enhancements.  
-
----
 
 ## 🌟 **Resources**  
 - [LeetCode Official Website](https://leetcode.com/)  
