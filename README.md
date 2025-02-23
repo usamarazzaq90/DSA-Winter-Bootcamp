@@ -58,7 +58,15 @@ Welcome to the **DSA Roadmap**! This repository is a curated collection of probl
 - https://leetcode.com/problems/time-needed-to-buy-tickets/
 - https://leetcode.com/problems/first-unique-character-in-a-string/
 - https://leetcode.com/problems/design-circular-queue/description/
-- https://leetcode.com/problems/design-circular-deque/description/ 
+- https://leetcode.com/problems/design-circular-deque/description/
+
+### 6 **Linked List**  
+- https://leetcode.com/problems/reverse-linked-list/description/
+- https://leetcode.com/problems/middle-of-the-linked-list/description/
+- https://leetcode.com/problems/linked-list-cycle/description/
+- https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/
+- https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/
+- https://leetcode.com/problems/intersection-of-two-linked-lists/description/
   
 ---
 
